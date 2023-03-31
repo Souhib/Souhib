@@ -34,11 +34,9 @@ Being passionate and very curious, I regularly follow the latest trends and best
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Souhib&theme=radical&hide_border=false&include_all_commits=true&count_private=true)</br></br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Souhib&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) </br></br>
+[![](https://visitcount.itsvg.in/api?id=Souhib&icon=0&color=10)](https://visitcount.itsvg.in)
 
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=Souhib&icon=0&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
