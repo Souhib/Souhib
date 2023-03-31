@@ -21,8 +21,6 @@ I have 4 years of experience as a software developer and more precisely as a bac
 
 Being passionate and very curious, I regularly follow the latest trends and best practices of the tools and languages I use on a daily basis as well as the new tools that become available over the years. I also have several personal projects in Data and DevOps that I will be happy to present to you if you are interested.
 
-I'm looking for a job that would give me the opportunity to work with a team with members ready to share their knowledge and to have the opportunity to work on a technical stack that I master but through which I would learn every day, in a healthy and good working environment.  
-
 ## 💫 About Me:
 🧑‍🎓 Graduated with a master’s degree in software engineering at Epitech Paris.<br>🧑‍💻 4 years of experience as a Python Developer with knowledge in DevOps & Cloud<br>🔭 I’m currently working on my-devops-lab.com<br>🌱 I’m currently learning Kubernetes<br>💬 Ask me about anything, I like to talk !<br>⚡ I'm a main Ganondorf at super smash bros ultimate
 </br>
