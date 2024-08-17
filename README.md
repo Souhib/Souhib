@@ -17,7 +17,7 @@
 ## 👀 Glad to see you here!  
 Graduated with a master’s degree in software engineering at Epitech Paris. I had the chance to have gained experience in the several fields of the software life cycle, from front end development with React JS / TS, to backend development with Python and its various Frameworks FastAPI, Django and Flask, to the deployment of programs on private infrastructures and on the cloud.
 
-I have 4 years of experience as a software developer and more precisely as a backend developer with the Python language. I have a good understanding of the Python language and its different libraries.
+I have more than 5 years of experience as a software developer and more precisely as a backend developer with the Python language. I have a good understanding of the Python language and its different libraries.
 
 Being passionate and very curious, I regularly follow the latest trends and best practices of the tools and languages I use on a daily basis as well as the new tools that become available over the years. I also have several personal projects in Data and DevOps that I will be happy to present to you if you are interested.
 
