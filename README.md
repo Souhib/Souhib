@@ -34,7 +34,7 @@ Being passionate and very curious, I regularly follow the latest trends and best
 
 ### 📊 Github Stats
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Souhib&langs_count=8&theme=radical&hide=Jupyter%20Notebook)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Souhib&langs_count=8&theme=radical&hide=Jupyter%20Notebook,CSS)
 
 
 ## ⏳ My Daily Routine  
